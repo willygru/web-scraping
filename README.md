@@ -1,8 +1,10 @@
-# SIMPLE WEB SCRAPER
+# Simple Web Scraper
 
 ## Description
-This project is a simple web scraper designed to extract job posting data from Indeed.com. The data extracted by the web scraper is saved and structured using Pandas, a data analysis and manipulation library in Python. 
+This project, a simple web scraper, is designed to extract job posting data from Indeed.com. It saves and structures the data using Pandas, a Python library renowned for its data analysis and manipulation capabilities.
 
-The web scraper works by navigating the site, searching for specific job postings, extracting the relevant data, and saving it in an easy-to-read and -analyze format.
+The web scraper operates by navigating the website, identifying specific job postings, extracting the associated data, and saving it in a format that's straightforward to read and analyze.
 
-Please note that this project is primarily for demonstrative purposes and should not be used to scrape large amounts of data without permission.
+This is the second iteration of the project. Although a previous version was developed years ago, it was never published. This version represents an enhanced, polished and more efficient version of the original concept.
+
+Please note: This project is primarily for demonstrative purposes. It's recommended not to use it for scraping large volumes of data without obtaining the necessary permissions first.
